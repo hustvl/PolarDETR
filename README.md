@@ -17,7 +17,7 @@ by
 <img src="docs/PolarDETR-Res50_demo.gif" width="100%" />
 </div>
 
-
+</div>
 
 ## Overview
 We reformulate position parametrization, velocity decomposition, perception range, 
