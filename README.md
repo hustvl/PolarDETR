@@ -35,10 +35,10 @@ Framework
 
 
 PolarDETR ranks 1st on the nuScenes benchmark at the submission time.
-Following are snapshots of nuScenes benchmark on Mar. 4th, 2022.
+Following are snapshots of nuScenes benchmark on Mar. 6th, 2022.
 <div align="center">
-<img src="docs/nuScenes_Detection_Leaderboard_snapshot_of_March_4th_2022.png" width="51%" />
-<img src="docs/nuScenes_Tracking_Leaderboard_snapshot_of_March_4th_2022.png" width="48%" />
+<img src="docs/nuScenes_Detection_Leaderboard_snapshot_of_March_6th_2022.png" width="51%" />
+<img src="docs/nuScenes_Tracking_Leaderboard_snapshot_of_March_6th_2022.png" width="48%" />
 </div>
 
 
